@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   alpine:
   - apiVersion: v1
-    created: "2020-09-07T15:49:55.772217041+02:00"
+    created: "2020-09-07T16:11:03.04985315+02:00"
     description: Deploy a basic Alpine Linux pod
     digest: 33edd361ff6d0c463e8fd62f703c7e5fee630d4a5ffb5dec5986b0f788138dc9
     home: https://k8s.io/helm
@@ -10,6 +10,6 @@ entries:
     sources:
     - https://github.com/kubernetes/helm
     urls:
-    - https://raw.githubusercontent.com/unreal-altran/altran-charts/master/docs/alpine-0.2.0.tgz
+    - https://unreal-altran.github.io/altran-public-charts/alpine-0.2.0.tgz
     version: 0.2.0
-generated: "2020-09-07T15:49:55.766372067+02:00"
+generated: "2020-09-07T16:11:03.041919988+02:00"
